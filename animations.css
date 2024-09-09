@@ -29,4 +29,29 @@
   animation-delay: 200ms;
 }
 
+[anim="slide-up-300"] {
+  animation: slideUp 0.5s ease forwards;
+  animation-delay: 300ms;
+}
+
+[anim="slide-up-400"] {
+  animation: slideUp 0.5s ease forwards;
+  animation-delay: 400ms;
+}
+
+[anim="slide-up-500"] {
+  animation: slideUp 0.5s ease forwards;
+  animation-delay: 500ms;
+}
+
+[anim="slide-up-600"] {
+  animation: slideUp 0.5s ease forwards;
+  animation-delay: 600ms;
+}
+
+[anim="slide-up-700"] {
+  animation: slideUp 0.5s ease forwards;
+  animation-delay: 700ms;
+}
+
 /* Add more as needed */
