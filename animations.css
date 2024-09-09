@@ -16,41 +16,41 @@
 }
 
 [anim="slide-up"] {
-  animation: slideUp 0.3s ease forwards;
+  animation: slideUp 0.3s ease-in-out forwards;
 }
 
 [anim="slide-up-100"] {
-  animation: slideUp 0.3s ease forwards;
+  animation: slideUp 0.3s ease-in-out forwards;
   animation-delay: 100ms;
 }
 
 [anim="slide-up-200"] {
-  animation: slideUp 0.3s ease forwards;
+  animation: slideUp 0.3s ease-in-out forwards;
   animation-delay: 200ms;
 }
 
 [anim="slide-up-300"] {
-  animation: slideUp 0.3s ease forwards;
+  animation: slideUp 0.3s ease-in-out forwards;
   animation-delay: 300ms;
 }
 
 [anim="slide-up-400"] {
-  animation: slideUp 0.3s ease forwards;
+  animation: slideUp 0.3s ease-in-out forwards;
   animation-delay: 400ms;
 }
 
 [anim="slide-up-500"] {
-  animation: slideUp 0.3s ease forwards;
+  animation: slideUp 0.3s ease-in-out forwards;
   animation-delay: 500ms;
 }
 
 [anim="slide-up-600"] {
-  animation: slideUp 0.3s ease forwards;
+  animation: slideUp 0.3s ease-in-out forwards;
   animation-delay: 600ms;
 }
 
 [anim="slide-up-700"] {
-  animation: slideUp 0.3s ease forwards;
+  animation: slideUp 0.3s ease-in-out forwards;
   animation-delay: 700ms;
 }
 
