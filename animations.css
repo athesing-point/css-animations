@@ -54,4 +54,51 @@
   animation-delay: 700ms;
 }
 
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+[anim="fade-in"] {
+  animation: fadeIn 0.4s ease-in-out forwards;
+}
+
+[anim="fade-in-100"] {
+  animation: fadeIn 0.4s ease-in-out forwards;
+  animation-delay: 100ms;
+}
+
+[anim="fade-in-200"] {
+  animation: fadeIn 0.4s ease-in-out forwards;
+  animation-delay: 200ms;
+}
+
+[anim="fade-in-300"] {
+  animation: fadeIn 0.4s ease-in-out forwards;
+  animation-delay: 300ms;
+}
+
+[anim="fade-in-400"] {
+  animation: fadeIn 0.4s ease-in-out forwards;
+  animation-delay: 400ms;
+}
+
+[anim="fade-in-500"] {
+  animation: fadeIn 0.4s ease-in-out forwards;
+  animation-delay: 500ms;
+}
+
+[anim="fade-in-600"] {
+  animation: fadeIn 0.4s ease-in-out forwards;
+  animation-delay: 600ms;
+}
+
+[anim="fade-in-700"] {
+  animation: fadeIn 0.4s ease-in-out forwards;
+  animation-delay: 700ms;
+}
 /* Add more as needed */
